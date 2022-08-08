@@ -1,9 +1,19 @@
 .odds {
   background-color: rgb(211, 116, 121);
-  font-family: Verdana, "Deja Vu Sans", Sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.oddwfont {
+  font-size: 24px;
 }
 
 #two {
-   color:rgb(77, 154, 249);
-   font-size: 36px;
+  color: rgb(77, 154, 249);
+  font-size: 36px;
+}
+
+#four {
+  background-color: rgb(190, 231, 177);
+  font-size: 24px;
+  font-weight: bold;
 }
