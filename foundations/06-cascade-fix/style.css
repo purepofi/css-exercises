@@ -7,12 +7,12 @@ body{
   color: hsl(0, 0%, 0%);
 }
 
-.small-para {
-  font-size: 14px;
-}
-
 .para {
   font-size: 22px;
+}
+
+.small-para {
+  font-size: 14px;
 }
 
 .confirm {
