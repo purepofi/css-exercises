@@ -18,6 +18,11 @@ img {
 .plants {
   display: flex;
   justify-content: center;
+  gap: 52px;
+}
+
+.item {
+  max-width: 200px;
 }
 
 /* do not edit this footer */
