@@ -28,6 +28,11 @@ body {
 .header {
   display: flex;
   justify-content: space-between;
+  font-weight: 900;
+}
+
+.text {
+  margin-bottom: 8px;
 }
 
 .icon {
