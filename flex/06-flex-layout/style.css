@@ -11,10 +11,10 @@ body {
 
 .content {
   display: flex;
-  flex: 1;
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  flex: 1;
 }
 
 .header,
@@ -22,6 +22,10 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 10px;
+}
+
+.footer {
+  background-color: #eee;
 }
 
 ul {
