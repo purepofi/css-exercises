@@ -21,7 +21,13 @@ body {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
+}
 
+ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
 }
 
 img {
