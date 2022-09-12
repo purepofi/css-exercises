@@ -29,6 +29,7 @@ body {
   display: flex;
   justify-content: space-between;
   font-weight: 900;
+  font-size: 18px;
 }
 
 .text {
