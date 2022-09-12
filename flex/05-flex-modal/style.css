@@ -23,8 +23,9 @@ body {
   display: flex;
 }
 
-.right {
+.header {
   display: flex;
+  justify-content: space-between;
 }
 
 .icon {
@@ -57,7 +58,6 @@ body {
 button {
   padding: 8px 16px;
   border-radius: 8px;
-  display:flex;
 }
 
 button.continue {
