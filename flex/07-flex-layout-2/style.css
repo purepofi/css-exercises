@@ -26,6 +26,11 @@ ul {
   list-style-type: none;
 }
 
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .middle {
   display: flex;
   flex: 1;
@@ -44,6 +49,8 @@ ul {
   width: 300px;
   background: royalblue;
   flex-shrink: 0;
+  color: white;
+  font-size: 24px;
 }
 
 .card {
