@@ -39,6 +39,7 @@ a {
 .sidebar {
   width: 300px;
   background: royalblue;
+  flex-shrink: 0;
 }
 
 .card {
