@@ -22,6 +22,10 @@ a {
   color: white;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .middle {
   display: flex;
   flex: 1;
